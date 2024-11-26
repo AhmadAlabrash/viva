@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.evlop.viva",
+        "sha256_cert_fingerprints": [
+          "1A:4D:68:98:75:5F:EA:E4:20:A9:05:2C:77:AC:78:B7:D3:49:A9:99:41:5D:31:F8:A5:63:CA:D8:98:18:2F:44"
+        ]
+      }
+    }
+  ]
+  
